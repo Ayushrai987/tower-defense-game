@@ -27,5 +27,4 @@ public class TowerDefenseApplication {
                         .maxAge(3600);
             }
         };
-    }
-}
+    }}
